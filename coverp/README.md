@@ -30,7 +30,8 @@ Insert the images in their appropriate places.
 ### Step 8:
 Publish the website in the LocalHost.
 
-## PROGRAM:```
+## PROGRAM:
+```
 <head>
     <meta name="viewport" content="width=device=width, initial-scale=1.0">
     <style>
@@ -148,11 +149,12 @@ Publish the website in the LocalHost.
         </div>
     </div>
 </body>
-</html>```
+</html>
+```
 
 
 ## OUTPUT:
-c:\Users\admin\Pictures\Screenshots\Screenshot 2024-12-09 222607.png
+![alt text](image.png)
 
 
 ## RESULT:
